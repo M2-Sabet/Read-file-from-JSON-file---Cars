@@ -1,0 +1,53 @@
+.original_parent_divP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+}
+.div1{
+    background-color: rgb(41, 41, 255);
+    height: 250px;
+    width: 500px;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.div2{
+    background-color: rgb(255, 49, 49);
+    height: 250px;
+    width: 500px;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.div3{
+    background-color: rgb(0, 255, 195);
+    height: 250px;
+    width: 500px;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.div4{
+    background-color: rgb(35, 138, 0);
+    height: 250px;
+    width: 500px;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.div5{
+    background-color: rgb(255, 0, 195);
+    height: 250px;
+    width: 500px;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

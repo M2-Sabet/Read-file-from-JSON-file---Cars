@@ -1,0 +1,39 @@
+[{
+        "brand" : "TOYOTA" ,
+        "model" : "Corolla",
+        "year" : 2021,
+        "color" : "White",
+        "price" : 22000
+} , 
+
+{
+        "brand" : "Honda" ,
+        "model" : "Civic",
+        "year" : 2020,
+        "color" : "Black",
+        "price" : 21000
+} , 
+
+{
+        "brand" : "Tesla" ,
+        "model" : "Model 3",
+        "year" : 2023,
+        "color" : "Red",
+        "price" : 35000
+} , 
+
+{
+        "brand" : "BMW" ,
+        "model" : "320i",
+        "year" : 2019,
+        "color" : "Blue",
+        "price" : 28000
+} , 
+
+{
+        "brand" : "Hyundai" ,
+        "model" : "Elantra",
+        "year" : 2022,
+        "color" : "Gray",
+        "price" : 19500
+}]
